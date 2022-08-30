@@ -1,0 +1,2 @@
+Garcia 50 10
+Souza 60 20
